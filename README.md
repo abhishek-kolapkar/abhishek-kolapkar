@@ -3,9 +3,9 @@
 
 ## About Me
 
-    Accomplished Software Development Engineer in Test (SDET), specializing in both Manual and Automation Testing. My goal is to 
-    build efficient and scalable test automation solutions that ensure the highest quality of software products. Passionate about 
-    continuous learning and applying best practices in test engineering to ensure robust software solutions.
+    Accomplished Software Development Engineer in Test (SDET), specializing in both Manual and Automation Testing. My goal is 
+    to build efficient and scalable test automation solutions that ensure the highest quality of software products. Passionate 
+    about continuous learning and applying best practices in test engineering to ensure robust software solutions.
 
 - 💻 I am currently exploring **SDET**.
 
